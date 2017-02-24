@@ -1,5 +1,5 @@
 ## Synopsis
-This project is a "vanilla" cipher project which entails .
+This project is a "vanilla" cipher project which entails jumbling of words and putting them in a cipher format .
 
 ## Code Example
 Kindly to access my codes clone the repository.
